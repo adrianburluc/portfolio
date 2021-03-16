@@ -1,4 +1,4 @@
-#Projects made during university
+# Projects made during university
 
 Includes:
 - Projects and games (C#)
