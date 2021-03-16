@@ -1,0 +1,57 @@
+C:\Users\Adrian\Desktop\Proiect C#\Proiect\Proiect\bin\Debug\Proiect.exe.config
+C:\Users\Adrian\Desktop\Proiect C#\Proiect\Proiect\bin\Debug\depozit.mdf
+C:\Users\Adrian\Desktop\Proiect C#\Proiect\Proiect\bin\Debug\depozit_log.ldf
+C:\Users\Adrian\Desktop\Proiect C#\Proiect\Proiect\bin\Debug\Proiect.exe
+C:\Users\Adrian\Desktop\Proiect C#\Proiect\Proiect\bin\Debug\Proiect.pdb
+C:\Users\Adrian\Desktop\Proiect C#\Proiect\Proiect\obj\Debug\Proiect.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Desktop\Proiect C#\Proiect\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+C:\Users\Adrian\Desktop\Proiect C#\Proiect\Proiect\obj\Debug\Proiect.csproj.GenerateResource.Cache
+C:\Users\Adrian\Desktop\Proiect C#\Proiect\Proiect\obj\Debug\Proiect.exe
+C:\Users\Adrian\Desktop\Proiect C#\Proiect\Proiect\obj\Debug\Proiect.pdb
+C:\Users\Adrian\Desktop\Proiect C#\Proiect\Proiect\obj\Debug\Proiect.LoginForm.resources
+C:\Users\Adrian\Desktop\Proiect C#\Proiect\Proiect\obj\Debug\Proiect.Register.resources
+C:\Users\Adrian\Desktop\Proiect C#\Proiect\Proiect\obj\Debug\Proiect.RegisterB.resources
+C:\Users\Adrian\Desktop\Proiect C#\Proiect\Proiect\obj\Debug\Proiect.RegisterF.resources
+C:\Users\Adrian\Desktop\Proiect C#\Proiect\Proiect\obj\Debug\Proiect.Angajat.resources
+C:\Users\Adrian\Desktop\Proiect C#\Proiect\Proiect\obj\Debug\Proiect.Beneficiar.resources
+C:\Users\Adrian\Desktop\Proiect C#\Proiect\Proiect\obj\Debug\Proiect.Furnizor.resources
+C:\Users\Adrian\Desktop\Proiect C#\Proiect\Proiect\obj\Debug\Proiect.angajat_cereri.resources
+C:\Users\Adrian\Desktop\Proiect C#\Proiect\Proiect\obj\Debug\Proiect.angajat_addm.resources
+C:\Users\Adrian\Documents\Facultate\Saved\Proiect C#\Proiect\Proiect\bin\Debug\Proiect.exe.config
+C:\Users\Adrian\Documents\Facultate\Saved\Proiect C#\Proiect\Proiect\obj\Debug\Proiect.exe
+C:\Users\Adrian\Documents\Facultate\Saved\Proiect C#\Proiect\Proiect\obj\Debug\Proiect.pdb
+C:\Users\Adrian\Documents\Facultate\Saved\Proiect C#\Proiect\Proiect\bin\Debug\depozit.mdf
+C:\Users\Adrian\Documents\Facultate\Saved\Proiect C#\Proiect\Proiect\bin\Debug\depozit_log.ldf
+C:\Users\Adrian\Documents\Facultate\Saved\Proiect C#\Proiect\Proiect\bin\Debug\Proiect.exe
+C:\Users\Adrian\Documents\Facultate\Saved\Proiect C#\Proiect\Proiect\bin\Debug\Proiect.pdb
+C:\Users\Adrian\Documents\Facultate\Saved\Proiect C#\Proiect\Proiect\obj\Debug\Proiect.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Documents\Facultate\Saved\Proiect C#\Proiect\Proiect\obj\Debug\Proiect.Angajat.resources
+C:\Users\Adrian\Documents\Facultate\Saved\Proiect C#\Proiect\Proiect\obj\Debug\Proiect.angajat_addm.resources
+C:\Users\Adrian\Documents\Facultate\Saved\Proiect C#\Proiect\Proiect\obj\Debug\Proiect.angajat_cereri.resources
+C:\Users\Adrian\Documents\Facultate\Saved\Proiect C#\Proiect\Proiect\obj\Debug\Proiect.Beneficiar.resources
+C:\Users\Adrian\Documents\Facultate\Saved\Proiect C#\Proiect\Proiect\obj\Debug\Proiect.LoginForm.resources
+C:\Users\Adrian\Documents\Facultate\Saved\Proiect C#\Proiect\Proiect\obj\Debug\Proiect.Furnizor.resources
+C:\Users\Adrian\Documents\Facultate\Saved\Proiect C#\Proiect\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+C:\Users\Adrian\Documents\Facultate\Saved\Proiect C#\Proiect\Proiect\obj\Debug\Proiect.Register.resources
+C:\Users\Adrian\Documents\Facultate\Saved\Proiect C#\Proiect\Proiect\obj\Debug\Proiect.RegisterB.resources
+C:\Users\Adrian\Documents\Facultate\Saved\Proiect C#\Proiect\Proiect\obj\Debug\Proiect.RegisterF.resources
+C:\Users\Adrian\Documents\Facultate\Saved\Proiect C#\Proiect\Proiect\obj\Debug\Proiect.csproj.GenerateResource.Cache
+C:\Users\Adrian\Documents\Facultate\Informatica Economica\Others\Proiect C#\Proiect\Proiect\bin\Debug\Proiect.exe.config
+C:\Users\Adrian\Documents\Facultate\Informatica Economica\Others\Proiect C#\Proiect\Proiect\obj\Debug\Proiect.exe
+C:\Users\Adrian\Documents\Facultate\Informatica Economica\Others\Proiect C#\Proiect\Proiect\obj\Debug\Proiect.pdb
+C:\Users\Adrian\Documents\Facultate\Informatica Economica\Others\Proiect C#\Proiect\Proiect\bin\Debug\depozit.mdf
+C:\Users\Adrian\Documents\Facultate\Informatica Economica\Others\Proiect C#\Proiect\Proiect\bin\Debug\depozit_log.ldf
+C:\Users\Adrian\Documents\Facultate\Informatica Economica\Others\Proiect C#\Proiect\Proiect\bin\Debug\Proiect.exe
+C:\Users\Adrian\Documents\Facultate\Informatica Economica\Others\Proiect C#\Proiect\Proiect\bin\Debug\Proiect.pdb
+C:\Users\Adrian\Documents\Facultate\Informatica Economica\Others\Proiect C#\Proiect\Proiect\obj\Debug\Proiect.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Documents\Facultate\Informatica Economica\Others\Proiect C#\Proiect\Proiect\obj\Debug\Proiect.Angajat.resources
+C:\Users\Adrian\Documents\Facultate\Informatica Economica\Others\Proiect C#\Proiect\Proiect\obj\Debug\Proiect.angajat_addm.resources
+C:\Users\Adrian\Documents\Facultate\Informatica Economica\Others\Proiect C#\Proiect\Proiect\obj\Debug\Proiect.angajat_cereri.resources
+C:\Users\Adrian\Documents\Facultate\Informatica Economica\Others\Proiect C#\Proiect\Proiect\obj\Debug\Proiect.Beneficiar.resources
+C:\Users\Adrian\Documents\Facultate\Informatica Economica\Others\Proiect C#\Proiect\Proiect\obj\Debug\Proiect.LoginForm.resources
+C:\Users\Adrian\Documents\Facultate\Informatica Economica\Others\Proiect C#\Proiect\Proiect\obj\Debug\Proiect.Furnizor.resources
+C:\Users\Adrian\Documents\Facultate\Informatica Economica\Others\Proiect C#\Proiect\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+C:\Users\Adrian\Documents\Facultate\Informatica Economica\Others\Proiect C#\Proiect\Proiect\obj\Debug\Proiect.Register.resources
+C:\Users\Adrian\Documents\Facultate\Informatica Economica\Others\Proiect C#\Proiect\Proiect\obj\Debug\Proiect.RegisterB.resources
+C:\Users\Adrian\Documents\Facultate\Informatica Economica\Others\Proiect C#\Proiect\Proiect\obj\Debug\Proiect.RegisterF.resources
+C:\Users\Adrian\Documents\Facultate\Informatica Economica\Others\Proiect C#\Proiect\Proiect\obj\Debug\Proiect.csproj.GenerateResource.Cache

@@ -1,0 +1,18 @@
+C:\Users\Adrian\Documents\Facultate\Programare\Jocuri\Gambling\Gambling\bin\Debug\Gambling.exe.config
+C:\Users\Adrian\Documents\Facultate\Programare\Jocuri\Gambling\Gambling\bin\Debug\Gambling.exe
+C:\Users\Adrian\Documents\Facultate\Programare\Jocuri\Gambling\Gambling\bin\Debug\Gambling.pdb
+C:\Users\Adrian\Documents\Facultate\Programare\Jocuri\Gambling\Gambling\obj\Debug\Gambling.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Documents\Facultate\Programare\Jocuri\Gambling\Gambling\obj\Debug\Gambling.exe
+C:\Users\Adrian\Documents\Facultate\Programare\Jocuri\Gambling\Gambling\obj\Debug\Gambling.pdb
+C:\Users\Adrian\Desktop\Facultate\Jocuri\Gambling [neterminat]\Gambling\bin\Debug\Gambling.exe.config
+C:\Users\Adrian\Desktop\Facultate\Jocuri\Gambling [neterminat]\Gambling\obj\Debug\Gambling.exe
+C:\Users\Adrian\Desktop\Facultate\Jocuri\Gambling [neterminat]\Gambling\obj\Debug\Gambling.pdb
+C:\Users\Adrian\Desktop\Facultate\Jocuri\Gambling [neterminat]\Gambling\bin\Debug\Gambling.exe
+C:\Users\Adrian\Desktop\Facultate\Jocuri\Gambling [neterminat]\Gambling\bin\Debug\Gambling.pdb
+C:\Users\Adrian\Desktop\Facultate\Jocuri\Gambling [neterminat]\Gambling\obj\Debug\Gambling.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Documents\Facultate\Jocuri\Gambling [neterminat]\Gambling\bin\Debug\Gambling.exe.config
+C:\Users\Adrian\Documents\Facultate\Jocuri\Gambling [neterminat]\Gambling\obj\Debug\Gambling.exe
+C:\Users\Adrian\Documents\Facultate\Jocuri\Gambling [neterminat]\Gambling\obj\Debug\Gambling.pdb
+C:\Users\Adrian\Documents\Facultate\Jocuri\Gambling [neterminat]\Gambling\bin\Debug\Gambling.exe
+C:\Users\Adrian\Documents\Facultate\Jocuri\Gambling [neterminat]\Gambling\bin\Debug\Gambling.pdb
+C:\Users\Adrian\Documents\Facultate\Jocuri\Gambling [neterminat]\Gambling\obj\Debug\Gambling.csprojResolveAssemblyReference.cache

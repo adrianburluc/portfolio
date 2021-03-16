@@ -1,0 +1,45 @@
+C:\Users\Adrian\Desktop\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Adrian\Desktop\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Adrian\Desktop\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Adrian\Desktop\Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Desktop\Calculator\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Adrian\Desktop\Calculator\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Adrian\Desktop\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Adrian\Desktop\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Adrian\Desktop\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Adrian\Desktop\Laborator3\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Adrian\Desktop\Laborator3\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Adrian\Desktop\Laborator3\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Adrian\Desktop\Laborator3\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Adrian\Desktop\Laborator3\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Adrian\Desktop\Laborator3\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Desktop\Laborator3\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Adrian\Desktop\Laborator3\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Adrian\Desktop\Laborator3\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Adrian\Documents\Facultate\An2\Semestru 2\Algoritmi programare\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Adrian\Documents\Facultate\An2\Semestru 2\Algoritmi programare\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Adrian\Documents\Facultate\An2\Semestru 2\Algoritmi programare\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Adrian\Documents\Facultate\An2\Semestru 2\Algoritmi programare\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Adrian\Documents\Facultate\An2\Semestru 2\Algoritmi programare\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Adrian\Documents\Facultate\An2\Semestru 2\Algoritmi programare\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Documents\Facultate\An2\Semestru 2\Algoritmi programare\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Adrian\Documents\Facultate\An2\Semestru 2\Algoritmi programare\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Adrian\Documents\Facultate\An2\Semestru 2\Algoritmi programare\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Adrian\Desktop\Facultate\Informatica Economica\Anul 2\Semestrul 2\Algoritmi si structuri de date\Proiecte\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Adrian\Desktop\Facultate\Informatica Economica\Anul 2\Semestrul 2\Algoritmi si structuri de date\Proiecte\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Adrian\Desktop\Facultate\Informatica Economica\Anul 2\Semestrul 2\Algoritmi si structuri de date\Proiecte\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Adrian\Desktop\Facultate\Informatica Economica\Anul 2\Semestrul 2\Algoritmi si structuri de date\Proiecte\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Adrian\Desktop\Facultate\Informatica Economica\Anul 2\Semestrul 2\Algoritmi si structuri de date\Proiecte\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Adrian\Desktop\Facultate\Informatica Economica\Anul 2\Semestrul 2\Algoritmi si structuri de date\Proiecte\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Desktop\Facultate\Informatica Economica\Anul 2\Semestrul 2\Algoritmi si structuri de date\Proiecte\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Adrian\Desktop\Facultate\Informatica Economica\Anul 2\Semestrul 2\Algoritmi si structuri de date\Proiecte\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Adrian\Desktop\Facultate\Informatica Economica\Anul 2\Semestrul 2\Algoritmi si structuri de date\Proiecte\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Adrian\Documents\Facultate\Other\Portofoliu\Portofoliu\5. C#\Proiecte\Calculator desktop - winforms\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Adrian\Documents\Facultate\Other\Portofoliu\Portofoliu\5. C#\Proiecte\Calculator desktop - winforms\Calculator\obj\Debug\Calculator.exe
+C:\Users\Adrian\Documents\Facultate\Other\Portofoliu\Portofoliu\5. C#\Proiecte\Calculator desktop - winforms\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Adrian\Documents\Facultate\Other\Portofoliu\Portofoliu\5. C#\Proiecte\Calculator desktop - winforms\Calculator\bin\Debug\Calculator.exe
+C:\Users\Adrian\Documents\Facultate\Other\Portofoliu\Portofoliu\5. C#\Proiecte\Calculator desktop - winforms\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Adrian\Documents\Facultate\Other\Portofoliu\Portofoliu\5. C#\Proiecte\Calculator desktop - winforms\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Documents\Facultate\Other\Portofoliu\Portofoliu\5. C#\Proiecte\Calculator desktop - winforms\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Adrian\Documents\Facultate\Other\Portofoliu\Portofoliu\5. C#\Proiecte\Calculator desktop - winforms\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Adrian\Documents\Facultate\Other\Portofoliu\Portofoliu\5. C#\Proiecte\Calculator desktop - winforms\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache

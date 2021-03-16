@@ -1,0 +1,17 @@
+Adobe After Effects v16.0 Windows 64 render log for project “ae.aep”
+
+Rendering started on 10/1/2020 at 10:55:20 PM
+
+  10/1/2020 10:55:20 PM: Starting composition “Comp 1”.
+
+  Output To: C:\Users\Adrian\Desktop\Comp 1.avi    10/1/2020 10:56:39 PM: Finished composition “Comp 1”.
+
+
+  10/1/2020 10:56:40 PM: Starting composition “Comp 1”.
+
+  Output To: C:\Users\Adrian\Desktop\Comp 1_1.avi      Render stopped by user.    10/1/2020 10:57:00 PM: Finished composition “Comp 1”.
+
+
+  Total Time Elapsed: 1 Min, 39 Sec
+Log closed on 10/1/2020 at 10:57:00 PM
+

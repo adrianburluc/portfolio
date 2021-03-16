@@ -1,0 +1,12 @@
+C:\Users\Adrian\Documents\Facultate\Programare\Jocuri\HartiePiatraFoarfeca\HartiePiatraFoarfeca\bin\Debug\HartiePiatraFoarfeca.exe.config
+C:\Users\Adrian\Documents\Facultate\Programare\Jocuri\HartiePiatraFoarfeca\HartiePiatraFoarfeca\bin\Debug\HartiePiatraFoarfeca.exe
+C:\Users\Adrian\Documents\Facultate\Programare\Jocuri\HartiePiatraFoarfeca\HartiePiatraFoarfeca\bin\Debug\HartiePiatraFoarfeca.pdb
+C:\Users\Adrian\Documents\Facultate\Programare\Jocuri\HartiePiatraFoarfeca\HartiePiatraFoarfeca\obj\Debug\HartiePiatraFoarfeca.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Documents\Facultate\Programare\Jocuri\HartiePiatraFoarfeca\HartiePiatraFoarfeca\obj\Debug\HartiePiatraFoarfeca.exe
+C:\Users\Adrian\Documents\Facultate\Programare\Jocuri\HartiePiatraFoarfeca\HartiePiatraFoarfeca\obj\Debug\HartiePiatraFoarfeca.pdb
+C:\Users\Adrian\Desktop\Facultate\Jocuri\HartiePiatraFoarfeca\HartiePiatraFoarfeca\bin\Debug\HartiePiatraFoarfeca.exe.config
+C:\Users\Adrian\Desktop\Facultate\Jocuri\HartiePiatraFoarfeca\HartiePiatraFoarfeca\obj\Debug\HartiePiatraFoarfeca.exe
+C:\Users\Adrian\Desktop\Facultate\Jocuri\HartiePiatraFoarfeca\HartiePiatraFoarfeca\obj\Debug\HartiePiatraFoarfeca.pdb
+C:\Users\Adrian\Desktop\Facultate\Jocuri\HartiePiatraFoarfeca\HartiePiatraFoarfeca\bin\Debug\HartiePiatraFoarfeca.exe
+C:\Users\Adrian\Desktop\Facultate\Jocuri\HartiePiatraFoarfeca\HartiePiatraFoarfeca\bin\Debug\HartiePiatraFoarfeca.pdb
+C:\Users\Adrian\Desktop\Facultate\Jocuri\HartiePiatraFoarfeca\HartiePiatraFoarfeca\obj\Debug\HartiePiatraFoarfeca.csprojResolveAssemblyReference.cache

@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <link rel="stylesheet" href="style.css">
+
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/jquery/latest/jquery.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/momentjs/latest/moment.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.css" />
+
+  <script type="text/javascript">
+    $(function() {
+      var today = new Date();
+      var dd = String(today.getDate()).padStart(2, '0');
+      var mm = String(today.getMonth() + 1).padStart(2, '0'); //January is 0!
+      var yyyy = today.getFullYear();
+      today = mm + '/' + dd + '/' + yyyy;
+      var years;
+
+      $('input[name="birthday"]').daterangepicker({
+        singleDatePicker: true,
+        autoApply: true,
+        minDate: today,
+        endDate: "02/01/2021",
+        maxYear: parseInt(moment().format('YYYY'),10)
+      });
+    });
+
+  </script>
+  </head>
+  <body onload="test()">
+    <header>
+      <div class="top-bar">
+        <div class="centered">
+          Website
+          <div>
+            <ul class="top-bar-contact">
+              <li><a href="#">M</a></li>
+              <li><a href="#">0723456789</a></li>
+              <li><a href="#">ENGLISH</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <nav class="nav-bar">
+        <div class="nav-align centered">
+        <img src="logo.png" class="nav-img">
+          <ul>
+            <li><a href="#">ACASA</a></li>
+            <li><a href="#">CAMERE</a></li>
+            <li><a href="#">SERVICII</a></li>
+            <li><a href="#">GALERIE</a></li>
+          </ul>
+          <a href="#" class="book-btn">BOOK NOW</a>
+        </div>
+      </nav>
+    </header>
+
+    <div class="container">
+      <main class="main">
+        <section>
+          <div class="section-image">
+            <div class="section-info">
+              <form class="" action="index.html" method="post">
+                <div class="test">
+                  <span>
+                    <label for="birthday">Durata</label>
+                    <input type="text" readonly="readonly" name="birthday" id="birthday"/>
+                  </span>
+                  <span>
+                    <label for="nrpersoane">Nr. persoane</label>
+                    <select name="nrpersoane" id="nrpersoane">
+                      <option value="1">1 persoana</option>
+                      <option value="2">2 persoane</option>
+                      <option value="3">3 persoane</option>
+                      <option value="4">4 persoane</option>
+                      <option value="5">5 persoane</option>
+                      <option value="6">6 persoane</option>
+                      <option value="7">7 persoane</option>
+                      <option value="8">8 persoane</option>
+                      <option value="9">9 persoane</option>
+                      <option value="10">10 persoane</option>
+                    </select>
+                  </span>
+                  <span>
+                    <input type="submit" value="Rezerva acum" id="submit-btn">
+                  </span>
+                </div>
+              </form>
+            </div>
+          </div>
+        </section>
+      </main>
+      <footer>
+        <div class="centered">
+          Footer
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,110 @@
+blackjack
+- fiecare primeste cate 2 carti
+- 2 optiuni: hit or stand
+- hit: daca treci de 21 > oponentul castiga
+- stand: daca ai suma prea mica iar oponentul are suma mai mare, oponentul castiga
+
+folosesti hit pana cand opresti si dai stand
+
+ai tras 10, 9
+
+21-11
+
+Asul - 1 sau 11 in functie de cat de bine e pentru user
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+
+Selecteaza una dintre optiunile de mai jos:
+1 - Incepe jocul
+2 - Opreste programul
+
+Optiune: //do while
+-------------------
+Start Game!
+Carti: x y
+Valoare: z
+
+1 - hit
+2 - stand
+
+Optiune: //do while
+-------------------
+Carti: x y k
+Valoare: z
+
+1 - hit
+2 - stand
+
+Optiune: 
+-------------------
+Carti: x y k l
+Valoare: z
+Ai pierdut! Ai acumulat o valoare mai mare de 21.
+
+Selecteaza una dintre optiunile de mai jos:
+1 - Incepe jocul
+2 - Opreste programul
+-------------------
+Carti: x y k l
+Valoare: z
+Felicitari! Ai castigat scorPlayer vs scorCPU!
+
+Selecteaza una dintre optiunile de mai jos:
+1 - Incepe jocul
+2 - Opreste programul
+-------------------
+
+
+
+OBSERVATII:
+=== asul poate fi 1 sau 11 in functie de cate de mult il ajuta pe user
+if valoare > 10
+   as=1
+else
+   as=11
+
+se extrage 11
+> daca nu da suma cu 11 atunci se face suma cu 1
+
+=== 10 are sansa 30%
+
+13 carti dintre care 4 sunt 10
+
+4 - 30% sansa
+
+2 3 4 5 6 7 8 9 10 11 12 13 14
+
+10, 12, 13, 14 - reprezinta 10 [sansa 30%]
+11 - reprezinta asul
+
+=== Carti:
+user: 2 [mai trage o carte]
+cpu: 2 [mai trage o carte]
+
+la cpu:
+if valoare < 21
+- trage carti
+
+user: 3 
+cpu: 3 [trage o carte if valoare < 21]
+
+
+- fiecare trage cate o carte
+1 carte player
+1 carte cpu
+1 carte player
+1 carte cpu
+
+cpu trage carti pana cand valoare > 17
+
+
+daca valoare cpu > 17
+- nu mai trage carti

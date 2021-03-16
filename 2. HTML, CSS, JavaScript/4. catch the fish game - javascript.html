@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <style>
+html,body{
+  margin: 0;
+  height: 100%;
+  background-image: url("https://i.imgur.com/UPqYhgL.png");
+  font-family: Arial;
+}
+
+.board{
+  width: 270px;
+  height: 220px;
+  position: relative;
+  background-image: url("https://i.imgur.com/ZbUrLze.png");
+  top:30px;
+  left:10px;
+}
+
+#rama{
+  position: absolute;
+}
+
+.fish{
+  width: 31px;
+  height: 19px;
+  position: absolute;
+  left:0;
+  top:0;
+}
+
+.cerc{
+  border: 3px solid white;
+  height: 125px;
+  width: 125px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  border-radius: 70px;
+  box-shadow: 0px 0px 10px white;
+}
+
+#hit{
+  font-weight: bold;
+  font-style: italic;
+  color:yellow;
+  text-shadow: 1px 0px 3px black;
+  font-size: 23px;
+  font-family: Arial;
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: none;
+}
+#miss{
+  font-weight: bold;
+  font-style: italic;
+  color:red;
+  text-shadow: 1px 0px 3px black;
+  font-size: 23px;
+  font-family: Arial;
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: none;
+}
+
+progress{
+  -webkit-appearance: none;
+   appearance: none;
+   color: -webkit-linear-gradient(top, #c6c60e, #dadf2a);
+   border-radius: 2px;
+   position: absolute;
+   top:279px;
+   left:111px;
+   height: 12px;
+   width: 191px;
+   -webkit-transition : width 1s linear;
+}
+progress::-webkit-progress-value {
+  background: -webkit-linear-gradient(top, #c6c60e, #dadf2a);
+  border-radius: 2px;
+  -webkit-transition : width 1s linear;
+}
+
+progress[value]::-webkit-progress-bar {
+  background-color: #1b496a;
+  border-radius: 2px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25) inset;
+  -webkit-transition : width 1s linear;
+}
+
+#scor{
+  color:white;
+  position: absolute;
+  left:233px;
+  top:9px;
+  font-size: 14px;
+}
+
+.mesaj{
+  position: fixed;
+  top: 50%;
+  left:50%;
+  transform: translate(-50%, -50%);
+  width: 500px;
+  height: 500px;
+  background-color: rgba(0,0,0,0.5);
+  border:1px solid black;
+  color: white;
+  padding: 25px;
+  box-sizing: border-box;
+  font-size: 20px;
+}
+
+.game{
+  position: absolute;
+  top: 50px;
+  left: 50px;
+}
+
+</style>
+    <script>
+
+var intervalFishMove = setInterval(fishMoving, 1400);
+var intervalCheckTime = setInterval(check,1000);
+var intervalCheckScore = setInterval(check2,500);
+var scor=0;
+var old_x_pos=0;
+var old_y_pos=0;
+function fishMoving(){
+    var fishMove = document.getElementById('fishMove');
+    var fish = document.getElementById('fish');
+    var x_pos = Math.floor(Math.random() * (239 - 0)) + 0;
+    var y_pos = Math.floor(Math.random() * (189 - 0)) + 0;
+    fishMove.style.left = (x_pos) + "px";
+    fishMove.style.top = (y_pos) + "px";
+    fishMove.style.transitionDuration = "2s";
+    fish.style.webkitTransform = 'rotate('+getAngle(old_x_pos, old_y_pos, x_pos, y_pos)+'deg)';
+    old_x_pos=x_pos;
+    old_y_pos=y_pos;
+}
+
+function getAngle(x1, y1, x2, y2){
+	var	dx = x1 - x2;
+	var dy = y1 - y2;
+	return Math.atan2(dy,dx) * 180 / Math.PI;
+}
+
+function test(){
+  if(scor<3 || gameover==false)
+  {
+    var hit = document.getElementById('hit');
+    hit.style.left = (event.clientX-20) + "px";
+    hit.style.top = (event.clientY-20) + "px";
+    hit.style.display = "block";
+    setTimeout(checkDisplayHit, 600);
+  }
+}
+
+function checkDisplayHit(){
+    var hit = document.getElementById('hit');
+    if(hit.style.display == "block")
+    {
+      hit.style.display = "none";
+    }
+    scor=scor+1;
+    document.getElementById('scor').innerHTML = scor;
+}
+
+function check(){
+  var bar = document.getElementById('timer');
+  //bar.style.transitionDuration = "5s";
+  bar.value-=1;
+}
+
+var gameover=false;
+function check2(){
+  var bar = document.getElementById('timer');
+  if(bar.value==0 || scor==3)
+  {
+    clearInterval(intervalCheckScore);
+    clearInterval(intervalCheckTime);
+    clearInterval(intervalFishMove);
+    gameover=true;
+  }
+}
+
+function printMousePos(event) {
+  document.getElementById('coord').textContent ="";
+  document.getElementById('coord').textContent +=
+    "clientX: " + event.clientX +
+    " - clientY: " + event.clientY;
+}
+//document.addEventListener("click", printMousePos);
+
+    </script>
+  </head>
+  <body>
+    <div class="game">
+      <img src="https://i.imgur.com/EDaq22B.png" id="rama">
+      <div class="board">
+        <label id="scor">0</label>
+        <div class="cerc" id="cerc">
+        </div>
+        <div class="fish" id="fishMove">
+          <img src="https://i.imgur.com/41MlWfr.png" id="fish" onclick="test()">
+        </div>
+      </div>
+    </div>
+    <progress id="timer" value="15" max="15"></progress>
+    <br>
+    <label id="hit">Hit</label>
+    <label id="coord"></label>
+  </body>
+</html>

@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head runat="server">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Website</title>
+
+
+  <link rel="stylesheet" href="~/Content/webstyle.css">
+  <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+  <script src="webscripts.js"></script>
+  <script type="text/javascript" src="~/Scripts/WebForms/webscripts.js"></script>
+  <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+  <style>
+  html, body{
+    margin: 0;
+    font-family: Arial;
+    background-color:#202f3f;
+    background:white;
+    height:100vh;
+}
+*{
+    box-sizing: border-box;
+}
+
+.nav-bar{
+    background-color:#202f3f;
+    color:white;
+    text-shadow: 1px 1px  black;
+}
+.nav-alignment{
+    display:flex;
+    justify-content:space-between;
+    max-width:1200px;
+    margin:auto;
+    padding: 0 20px;
+}
+.nav-list{
+    list-style:none;
+    padding:0;
+    margin:0;
+    display:flex;
+}
+
+.contact-list{
+    list-style:none;
+    padding:0;
+    margin:0;
+    display:flex;
+}
+
+.center-content{
+    max-width:1100px;
+    margin:auto;
+    overflow:hidden;
+}
+
+.nav-list li{
+    text-decoration: none;
+    display:flex;
+}
+
+.orange{
+    background-color:#deb157;
+    color:black;
+    text-shadow:none;
+}
+
+.nav-list li a{
+    text-decoration: none;
+    color:inherit;
+    padding: 15px 25px;
+}
+.nav-list li a:hover{
+    background-color:rgba(255,255,255,0.1);
+    transition: 0.2s;
+}
+
+.contact-list li a{
+    text-decoration:none;
+    color:inherit;
+    padding:5px;
+    margin-right:10px;
+    border-radius: 5px;
+}
+
+.contact-list li a:hover{
+    background-color: rgba(255,255,255,0.1);
+    transition: 0.2s;
+}
+
+.header-image{
+    background-image:linear-gradient(to right, rgba(32, 47, 63, 1), rgba(32, 47, 63, 0.6), rgba(32, 47, 63, 1)), url('https://i.imgur.com/NSAj0UF.jpg');
+    background-color: rgba(32, 47, 63, 1);
+    background-repeat: no-repeat;
+    height:150px;
+    background-size:auto;
+    background-position-x:center;
+    display:flex;
+    color:white;
+    text-align:center;
+}
+
+
+img{
+    height:100%;
+}
+.header-logo{
+    margin-bottom:10px;
+}
+
+h1{
+    padding:0;
+    margin:0;
+}
+
+.header-content-holder{
+    margin:auto;
+    padding:10px;
+    display:flex;
+    align-items:center;
+    text-shadow: 1px 1px  black;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.sticky + .content {
+  padding-top: 49px;
+}
+
+.content{
+    background-color:white;
+    flex:1;
+}
+.footer{
+    background-color:#202f3f;
+    width:100%;
+    color:white;
+}
+.footer-alignment{
+    margin:auto;
+
+}
+
+.row{
+    padding: 20px;
+    display:flex;
+    justify-content:center;
+}
+.column{
+    margin-right:50px;
+}
+
+.footer-lists{
+    display:flex;
+}
+.footer-list{
+    list-style:none;
+    margin:0;
+    padding:0;
+}
+
+.footer-list li a{
+    text-decoration:none;
+    color:inherit
+}
+
+.footer-lists .footer-list{
+    margin-right:40px;
+}
+
+.footer-title{
+    font-size:16px;
+    margin-bottom:10px;
+}
+
+.footer-list li{
+    margin-top:5px;
+}
+
+.footer-list li a:hover{
+    color:#deb157;
+}
+
+.footer-list li #fb:hover{
+    color:#4267B2;
+}
+
+.footer-list li #ins:hover{
+    color:#E1306C;
+}
+
+.body{
+    display:flex;
+    flex-direction:column;
+    min-height:100%;
+}
+  </style>
+</head>
+
+  <body class="body">
+      <header class="header-image">
+         <div class="header-content-holder">
+            <div class="header-info">
+              <img class="header-logo" src="https://i.imgur.com/pqeYJ4M.png" />
+                 <ul class="contact-list header-contact">
+                      <li class="contact-item"><a href="#"><span class="fas fa-map-marker-alt"></span> str. Brailei, nr. 2</a></li>
+                      <li class="contact-item"><a href="#"><span class="fas fa-phone-alt"></span> +40 12 345 67 89</a></li>
+                      <li class="contact-item"><a href="#"><span class="fas fa-envelope"></span> contact@alfahotel.ro</a></li>
+                  </ul>
+              </div>
+          </div>
+      </header>
+
+      <nav id="navbar" class="nav-bar">
+          <div class="nav-alignment ">
+              <ul class="nav-list">
+                  <li class="nav-item"><a runat="server" href="#">Acasa</a></li>
+                  <li class="nav-item"><a runat="server" href="#">Camere</a></li>
+                  <li class="nav-item"><a runat="server" href="#">Servicii</a></li>
+                  <li class="nav-item"><a runat="server" href="#">Galerie</a></li>
+              </ul>
+              <ul class="nav-list">
+                  <li class="nav-item orange"><a runat="server" href="~/">Rezerva camera</a></li>
+              </ul>
+          </div>
+      </nav>
+
+      <section class="content">
+          <div class="center-content">
+            <h1>Scroll down</h1>
+            <p>text</p>
+            <h1>Scroll down</h1>
+            <p>text</p>
+            <h1>Scroll down</h1>
+            <p>text</p>
+            <h1>Scroll down</h1>
+            <p>text</p>
+            <h1>Scroll down</h1>
+            <p>text</p>
+            <h1>Scroll down</h1>
+            <p>text</p>
+            <h1>Scroll down</h1>
+            <p>text</p>
+            <h1>Scroll down</h1>
+            <p>text</p>
+            <h1>Scroll down</h1>
+            <p>text</p>
+            <h1>Scroll down</h1>
+            <p>text</p>
+            <h1>Scroll down</h1>
+            <p>text</p>
+            <h1>Scroll down</h1>
+            <p>text</p>
+            <h1>Scroll down</h1>
+            <p>text</p>
+            <h1>Scroll down</h1>
+            <p>text</p>
+            <h1>Scroll down</h1>
+            <p>text</p>
+            <h1>Scroll down</h1>
+            <p>text</p>
+
+          </div>
+      </section>
+
+      <footer class="footer">
+              <div class="row">
+                  <div class="column">
+                      <h1 class="footer-title">SOCIAL MEDIA</h1>
+                      <ul class="footer-list">
+                          <li><a href="#" id="fb"><span class="fab fa-facebook"></span> Facebook</a></li>
+                          <li><a href="#" id="ins"><span class="fab fa-instagram"></span> Instagram</a></li>
+                      </ul>
+                  </div>
+                  <div class="column">
+                      <h1 class="footer-title">LINK-URI UTILE</h1>
+                      <div class="footer-lists">
+                          <ul class="footer-list">
+                              <li><a href="#">Harta</a></li>
+                              <li><a href="#">Privacy policy</a></li>
+                          </ul>
+                          <ul class="footer-list">
+                              <li><a href="#">Harta</a></li>
+                              <li><a href="#">Privacy policy</a></li>
+                          </ul>
+                          <ul class="footer-list">
+                              <li><a href="#">Harta</a></li>
+                              <li><a href="#">Privacy policy</a></li>
+                          </ul>
+                      </div>
+                  </div>
+              </div>
+      </footer><script>
+            window.onscroll = function() {myFunction()};
+
+            var navbar = document.getElementById("navbar");
+            var sticky = navbar.offsetTop;
+
+            function myFunction() {
+              if (window.pageYOffset >= sticky) {
+                navbar.classList.add("sticky")
+              } else {
+                navbar.classList.remove("sticky");
+              }
+            }
+        </script>
+  </body>
+</html>

@@ -1,0 +1,21 @@
+C:\Users\Adrian\Desktop\Running dinosaur\Dino\Dino\bin\Debug\Dino.exe.config
+C:\Users\Adrian\Desktop\Running dinosaur\Dino\Dino\bin\Debug\Dino.exe
+C:\Users\Adrian\Desktop\Running dinosaur\Dino\Dino\bin\Debug\Dino.pdb
+C:\Users\Adrian\Desktop\Running dinosaur\Dino\Dino\obj\Debug\Dino.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Desktop\Running dinosaur\Dino\Dino\obj\Debug\Dino.Form1.resources
+C:\Users\Adrian\Desktop\Running dinosaur\Dino\Dino\obj\Debug\Dino.Properties.Resources.resources
+C:\Users\Adrian\Desktop\Running dinosaur\Dino\Dino\obj\Debug\Dino.csproj.GenerateResource.Cache
+C:\Users\Adrian\Desktop\Running dinosaur\Dino\Dino\obj\Debug\Dino.exe
+C:\Users\Adrian\Desktop\Running dinosaur\Dino\Dino\obj\Debug\Dino.pdb
+C:\Users\Adrian\Documents\Facultate\An2\Semestru 2\Algoritmi programare\Games\Dino\Dino\bin\Debug\Dino.exe.config
+C:\Users\Adrian\Documents\Facultate\An2\Semestru 2\Algoritmi programare\Games\Dino\Dino\obj\Debug\Dino.exe
+C:\Users\Adrian\Documents\Facultate\An2\Semestru 2\Algoritmi programare\Games\Dino\Dino\obj\Debug\Dino.pdb
+C:\Users\Adrian\Desktop\Facultate\Informatica Economica\Anul 2\Semestrul 2\Algoritmi si structuri de date\Proiecte\Games\Dino\Dino\bin\Debug\Dino.exe.config
+C:\Users\Adrian\Desktop\Facultate\Informatica Economica\Anul 2\Semestrul 2\Algoritmi si structuri de date\Proiecte\Games\Dino\Dino\obj\Debug\Dino.exe
+C:\Users\Adrian\Desktop\Facultate\Informatica Economica\Anul 2\Semestrul 2\Algoritmi si structuri de date\Proiecte\Games\Dino\Dino\obj\Debug\Dino.pdb
+C:\Users\Adrian\Desktop\Facultate\Informatica Economica\Anul 2\Semestrul 2\Algoritmi si structuri de date\Proiecte\Games\Dino\Dino\bin\Debug\Dino.exe
+C:\Users\Adrian\Desktop\Facultate\Informatica Economica\Anul 2\Semestrul 2\Algoritmi si structuri de date\Proiecte\Games\Dino\Dino\bin\Debug\Dino.pdb
+C:\Users\Adrian\Desktop\Facultate\Informatica Economica\Anul 2\Semestrul 2\Algoritmi si structuri de date\Proiecte\Games\Dino\Dino\obj\Debug\Dino.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Desktop\Facultate\Informatica Economica\Anul 2\Semestrul 2\Algoritmi si structuri de date\Proiecte\Games\Dino\Dino\obj\Debug\Dino.Form1.resources
+C:\Users\Adrian\Desktop\Facultate\Informatica Economica\Anul 2\Semestrul 2\Algoritmi si structuri de date\Proiecte\Games\Dino\Dino\obj\Debug\Dino.Properties.Resources.resources
+C:\Users\Adrian\Desktop\Facultate\Informatica Economica\Anul 2\Semestrul 2\Algoritmi si structuri de date\Proiecte\Games\Dino\Dino\obj\Debug\Dino.csproj.GenerateResource.Cache

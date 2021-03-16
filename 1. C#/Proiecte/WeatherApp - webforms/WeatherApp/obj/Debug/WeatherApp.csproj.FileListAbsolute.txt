@@ -1,0 +1,24 @@
+C:\Users\Adrian\Documents\Facultate\An 3\Semestrul 1\1. Sisteme distribuite\Proiect\WeatherApp\WeatherApp\bin\WeatherApp.dll.config
+C:\Users\Adrian\Documents\Facultate\An 3\Semestrul 1\1. Sisteme distribuite\Proiect\WeatherApp\WeatherApp\bin\WeatherApp.dll
+C:\Users\Adrian\Documents\Facultate\An 3\Semestrul 1\1. Sisteme distribuite\Proiect\WeatherApp\WeatherApp\bin\WeatherApp.pdb
+C:\Users\Adrian\Documents\Facultate\An 3\Semestrul 1\1. Sisteme distribuite\Proiect\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Documents\Facultate\An 3\Semestrul 1\1. Sisteme distribuite\Proiect\WeatherApp\WeatherApp\obj\Debug\WeatherApp.dll
+C:\Users\Adrian\Documents\Facultate\An 3\Semestrul 1\1. Sisteme distribuite\Proiect\WeatherApp\WeatherApp\obj\Debug\WeatherApp.pdb
+C:\Users\Adrian\Desktop\Proiect\WeatherApp\WeatherApp\bin\WeatherApp.dll.config
+C:\Users\Adrian\Desktop\Proiect\WeatherApp\WeatherApp\bin\WeatherApp.dll
+C:\Users\Adrian\Desktop\Proiect\WeatherApp\WeatherApp\bin\WeatherApp.pdb
+C:\Users\Adrian\Desktop\Proiect\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Desktop\Proiect\WeatherApp\WeatherApp\obj\Debug\WeatherApp.dll
+C:\Users\Adrian\Desktop\Proiect\WeatherApp\WeatherApp\obj\Debug\WeatherApp.pdb
+C:\Users\Adrian\Desktop\Facultate\Other\Proiecte\Weather API\WeatherApp\WeatherApp\bin\WeatherApp.dll.config
+C:\Users\Adrian\Desktop\Facultate\Other\Proiecte\Weather API\WeatherApp\WeatherApp\bin\WeatherApp.dll
+C:\Users\Adrian\Desktop\Facultate\Other\Proiecte\Weather API\WeatherApp\WeatherApp\bin\WeatherApp.pdb
+C:\Users\Adrian\Desktop\Facultate\Other\Proiecte\Weather API\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Desktop\Facultate\Other\Proiecte\Weather API\WeatherApp\WeatherApp\obj\Debug\WeatherApp.dll
+C:\Users\Adrian\Desktop\Facultate\Other\Proiecte\Weather API\WeatherApp\WeatherApp\obj\Debug\WeatherApp.pdb
+C:\Users\Adrian\Documents\Facultate\Other\Portofoliu\Portofoliu\5. C#\Proiecte\WeatherApp\WeatherApp\bin\WeatherApp.dll.config
+C:\Users\Adrian\Documents\Facultate\Other\Portofoliu\Portofoliu\5. C#\Proiecte\WeatherApp\WeatherApp\bin\WeatherApp.dll
+C:\Users\Adrian\Documents\Facultate\Other\Portofoliu\Portofoliu\5. C#\Proiecte\WeatherApp\WeatherApp\bin\WeatherApp.pdb
+C:\Users\Adrian\Documents\Facultate\Other\Portofoliu\Portofoliu\5. C#\Proiecte\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Documents\Facultate\Other\Portofoliu\Portofoliu\5. C#\Proiecte\WeatherApp\WeatherApp\obj\Debug\WeatherApp.dll
+C:\Users\Adrian\Documents\Facultate\Other\Portofoliu\Portofoliu\5. C#\Proiecte\WeatherApp\WeatherApp\obj\Debug\WeatherApp.pdb

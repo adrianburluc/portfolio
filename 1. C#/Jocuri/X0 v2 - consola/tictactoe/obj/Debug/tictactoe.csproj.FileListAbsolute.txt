@@ -1,0 +1,24 @@
+C:\Users\Adrian\Documents\Facultate\Programare\Aplicatii\S6\tictactoe\tictactoe\bin\Debug\tictactoe.exe.config
+C:\Users\Adrian\Documents\Facultate\Programare\Aplicatii\S6\tictactoe\tictactoe\bin\Debug\tictactoe.exe
+C:\Users\Adrian\Documents\Facultate\Programare\Aplicatii\S6\tictactoe\tictactoe\bin\Debug\tictactoe.pdb
+C:\Users\Adrian\Documents\Facultate\Programare\Aplicatii\S6\tictactoe\tictactoe\obj\Debug\tictactoe.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Documents\Facultate\Programare\Aplicatii\S6\tictactoe\tictactoe\obj\Debug\tictactoe.exe
+C:\Users\Adrian\Documents\Facultate\Programare\Aplicatii\S6\tictactoe\tictactoe\obj\Debug\tictactoe.pdb
+C:\Users\Adrian\Documents\Facultate\Programare\Jocuri\X0 v2\tictactoe\bin\Debug\tictactoe.exe.config
+C:\Users\Adrian\Documents\Facultate\Programare\Jocuri\X0 v2\tictactoe\obj\Debug\tictactoe.exe
+C:\Users\Adrian\Documents\Facultate\Programare\Jocuri\X0 v2\tictactoe\obj\Debug\tictactoe.pdb
+C:\Users\Adrian\Documents\Facultate\Programare\Jocuri\X0 v2\tictactoe\bin\Debug\tictactoe.exe
+C:\Users\Adrian\Documents\Facultate\Programare\Jocuri\X0 v2\tictactoe\bin\Debug\tictactoe.pdb
+C:\Users\Adrian\Documents\Facultate\Programare\Jocuri\X0 v2\tictactoe\obj\Debug\tictactoe.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Desktop\Facultate\Jocuri\X0 v2\tictactoe\bin\Debug\tictactoe.exe.config
+C:\Users\Adrian\Desktop\Facultate\Jocuri\X0 v2\tictactoe\obj\Debug\tictactoe.exe
+C:\Users\Adrian\Desktop\Facultate\Jocuri\X0 v2\tictactoe\obj\Debug\tictactoe.pdb
+C:\Users\Adrian\Desktop\Facultate\Jocuri\X0 v2\tictactoe\bin\Debug\tictactoe.exe
+C:\Users\Adrian\Desktop\Facultate\Jocuri\X0 v2\tictactoe\bin\Debug\tictactoe.pdb
+C:\Users\Adrian\Desktop\Facultate\Jocuri\X0 v2\tictactoe\obj\Debug\tictactoe.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Documents\Facultate\Jocuri\X0 v2\tictactoe\bin\Debug\tictactoe.exe.config
+C:\Users\Adrian\Documents\Facultate\Jocuri\X0 v2\tictactoe\obj\Debug\tictactoe.exe
+C:\Users\Adrian\Documents\Facultate\Jocuri\X0 v2\tictactoe\obj\Debug\tictactoe.pdb
+C:\Users\Adrian\Documents\Facultate\Jocuri\X0 v2\tictactoe\bin\Debug\tictactoe.exe
+C:\Users\Adrian\Documents\Facultate\Jocuri\X0 v2\tictactoe\bin\Debug\tictactoe.pdb
+C:\Users\Adrian\Documents\Facultate\Jocuri\X0 v2\tictactoe\obj\Debug\tictactoe.csprojResolveAssemblyReference.cache
